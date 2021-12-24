@@ -1,0 +1,14 @@
+[2021-12-25 02:31:33.756] [exthost] [info] Extension host with pid 62041 started
+[2021-12-25 02:31:33.783] [exthost] [info] Lock '/home/gainullint/.vscode-server/data/User/workspaceStorage/d1c372c71c1f8a7b19ae88333b8a683c/vscode.lock': Lock acquired.
+[2021-12-25 02:31:33.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-25 02:31:33.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-25 02:31:34.443] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-25 02:31:34.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-25 02:31:34.746] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-25 02:31:34.777] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-25 02:31:34.782] [exthost] [info] Eager extensions activated
+[2021-12-25 02:31:42.704] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4216
+[2021-12-25 02:31:48.723] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4216
+[2021-12-25 02:32:15.706] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-25 02:32:15.708] [exthost] [info] Lock '/home/gainullint/.vscode-server/data/User/workspaceStorage/d1c372c71c1f8a7b19ae88333b8a683c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-25 02:32:15.734] [exthost] [info] Extension host with pid 62041 exiting with code 0

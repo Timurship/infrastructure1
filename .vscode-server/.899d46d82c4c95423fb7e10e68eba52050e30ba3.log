@@ -1,0 +1,112 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 45715
+
+[23:09:10] Extension host agent started.
+[23:09:15] [127.0.0.1][aef945da][ManagementConnection] New connection established.
+[23:09:15] [127.0.0.1][9ca96f1c][ExtensionHostConnection] New connection established.
+[23:09:15] [127.0.0.1][9ca96f1c][ExtensionHostConnection] <1640> Launched Extension Host Process.
+[02:09:12] [127.0.0.1][aef945da][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:09:13] [127.0.0.1][9ca96f1c][ExtensionHostConnection] <1640> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[02:09:13] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[02:09:19] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[02:09:19] Cancelling previous shutdown timeout
+[02:09:19] [127.0.0.1][7f0d8d6d][ManagementConnection] New connection established.
+[02:09:19] [127.0.0.1][6bfbcfcf][ExtensionHostConnection] New connection established.
+[02:09:19] [127.0.0.1][6bfbcfcf][ExtensionHostConnection] <54760> Launched Extension Host Process.
+[02:10:38] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/gainullint/.git)
+[02:10:38] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[02:10:49] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/gainullint/.git)
+[02:10:49] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+New EH opened, aborting shutdown
+[02:14:19] New EH opened, aborting shutdown
+[02:15:13] [127.0.0.1][7f0d8d6d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:15:13] [127.0.0.1][6bfbcfcf][ExtensionHostConnection] <54760> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[02:15:13] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[02:15:17] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[02:15:17] Cancelling previous shutdown timeout
+[02:15:17] [127.0.0.1][7ca0cba9][ManagementConnection] New connection established.
+[02:15:17] [127.0.0.1][c4805277][ExtensionHostConnection] New connection established.
+[02:15:17] [127.0.0.1][c4805277][ExtensionHostConnection] <55388> Launched Extension Host Process.
+[02:15:18] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:15:18] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[02:15:19] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:15:19] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[02:15:19] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:15:19] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[02:15:20] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:15:20] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[IPC Library: Pty Host]  INFO Persistent process "12": Replaying 9554 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "13": Replaying 7497 chars and 1 size events
+[02:15:21] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:15:21] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[02:15:22] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:15:22] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+rejected promise not handled within 1 second: Error: Could not find pty with id "17"
+stack trace: Error: Could not find pty with id "17",    at l._throwIfNoPty (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "17",    at l._throwIfNoPty (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+New EH opened, aborting shutdown
+[02:20:17] New EH opened, aborting shutdown
+[02:31:26] [127.0.0.1][7ca0cba9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:31:26] [127.0.0.1][c4805277][ExtensionHostConnection] <55388> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[02:31:26] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[02:31:31] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[02:31:31] Cancelling previous shutdown timeout
+[02:31:31] [127.0.0.1][d1542c99][ManagementConnection] New connection established.
+[02:31:31] [127.0.0.1][35dbdc7e][ExtensionHostConnection] New connection established.
+[02:31:31] [127.0.0.1][35dbdc7e][ExtensionHostConnection] <62041> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "20": Replaying 1181 chars and 1 size events
+rejected promise not handled within 1 second: Error: Could not find pty with id "24"
+stack trace: Error: Could not find pty with id "24",    at l._throwIfNoPty (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "24",    at l._throwIfNoPty (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+[02:31:54] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/gainullint/.git)
+[02:31:54] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[02:31:57] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/gainullint/.git)
+[02:31:57] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[02:32:15] [127.0.0.1][d1542c99][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:32:15] [127.0.0.1][35dbdc7e][ExtensionHostConnection] <62041> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[02:32:15] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[02:32:15] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[02:32:19] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[02:32:19] Cancelling previous shutdown timeout
+[02:32:19] [127.0.0.1][ddad4b15][ManagementConnection] New connection established.
+[02:32:19] [127.0.0.1][64cbc28d][ExtensionHostConnection] New connection established.
+[02:32:19] [127.0.0.1][64cbc28d][ExtensionHostConnection] <62244> Launched Extension Host Process.
+[02:32:20] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:32:20] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[02:32:21] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:32:21] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[02:32:21] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:32:21] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[02:32:22] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:32:22] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[IPC Library: Pty Host]  INFO Persistent process "25": Replaying 9708 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "26": Replaying 358 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "27": Replaying 1609 chars and 1 size events
+[02:32:23] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:32:23] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[02:32:24] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[02:32:24] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+rejected promise not handled within 1 second: Error: Could not find pty with id "31"
+stack trace: Error: Could not find pty with id "31",    at l._throwIfNoPty (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "31",    at l._throwIfNoPty (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/gainullint/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]

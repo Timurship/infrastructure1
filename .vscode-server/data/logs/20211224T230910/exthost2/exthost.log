@@ -1,0 +1,12 @@
+[2021-12-25 02:09:23.770] [exthost] [info] Extension host with pid 54760 started
+[2021-12-25 02:09:23.808] [exthost] [info] Lock '/home/gainullint/.vscode-server/data/User/workspaceStorage/d1c372c71c1f8a7b19ae88333b8a683c/vscode.lock': Lock acquired.
+[2021-12-25 02:09:23.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-25 02:09:24.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-25 02:09:24.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-25 02:09:24.777] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-25 02:09:25.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-25 02:09:25.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-25 02:09:25.092] [exthost] [info] Eager extensions activated
+[2021-12-25 02:15:13.598] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-25 02:15:13.609] [exthost] [info] Lock '/home/gainullint/.vscode-server/data/User/workspaceStorage/d1c372c71c1f8a7b19ae88333b8a683c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-25 02:15:13.648] [exthost] [info] Extension host with pid 54760 exiting with code 0

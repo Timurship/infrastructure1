@@ -1,0 +1,81 @@
+[2021-12-24 23:09:11.031] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-24 23:09:11.031] [remoteagent] [info] Extension host agent started.
+[2021-12-24 23:09:15.432] [remoteagent] [info] [127.0.0.1][aef945da][ManagementConnection] New connection established.
+[2021-12-24 23:09:15.434] [remoteagent] [info] [127.0.0.1][9ca96f1c][ExtensionHostConnection] New connection established.
+[2021-12-24 23:09:15.456] [remoteagent] [info] [127.0.0.1][9ca96f1c][ExtensionHostConnection] <1640> Launched Extension Host Process.
+[2021-12-25 02:09:12.578] [remoteagent] [info] [127.0.0.1][aef945da][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-25 02:09:13.058] [remoteagent] [info] [127.0.0.1][9ca96f1c][ExtensionHostConnection] <1640> Extension Host Process exited with code: 0, signal: null.
+[2021-12-25 02:09:13.064] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-25 02:09:19.221] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-25 02:09:19.222] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-25 02:09:19.661] [remoteagent] [info] [127.0.0.1][7f0d8d6d][ManagementConnection] New connection established.
+[2021-12-25 02:09:19.766] [remoteagent] [info] [127.0.0.1][6bfbcfcf][ExtensionHostConnection] New connection established.
+[2021-12-25 02:09:19.884] [remoteagent] [info] [127.0.0.1][6bfbcfcf][ExtensionHostConnection] <54760> Launched Extension Host Process.
+[2021-12-25 02:10:38.136] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/gainullint/.git)
+[2021-12-25 02:10:38.137] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-25 02:10:49.802] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/gainullint/.git)
+[2021-12-25 02:10:49.817] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-25 02:14:19.223] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-12-25 02:15:13.587] [remoteagent] [info] [127.0.0.1][7f0d8d6d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-25 02:15:13.666] [remoteagent] [info] [127.0.0.1][6bfbcfcf][ExtensionHostConnection] <54760> Extension Host Process exited with code: 0, signal: null.
+[2021-12-25 02:15:13.666] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-25 02:15:17.291] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-25 02:15:17.291] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-25 02:15:17.421] [remoteagent] [info] [127.0.0.1][7ca0cba9][ManagementConnection] New connection established.
+[2021-12-25 02:15:17.424] [remoteagent] [info] [127.0.0.1][c4805277][ExtensionHostConnection] New connection established.
+[2021-12-25 02:15:17.443] [remoteagent] [info] [127.0.0.1][c4805277][ExtensionHostConnection] <55388> Launched Extension Host Process.
+[2021-12-25 02:15:18.669] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:15:18.670] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:15:19.245] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:15:19.245] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:15:19.577] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:15:19.577] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:15:20.720] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:15:20.720] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:15:21.623] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:15:21.623] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:15:22.054] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:15:22.054] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2021-12-25 02:20:17.384] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-12-25 02:31:26.224] [remoteagent] [info] [127.0.0.1][7ca0cba9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-25 02:31:26.319] [remoteagent] [info] [127.0.0.1][c4805277][ExtensionHostConnection] <55388> Extension Host Process exited with code: 0, signal: null.
+[2021-12-25 02:31:26.320] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-25 02:31:31.049] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-25 02:31:31.049] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-25 02:31:31.157] [remoteagent] [info] [127.0.0.1][d1542c99][ManagementConnection] New connection established.
+[2021-12-25 02:31:31.172] [remoteagent] [info] [127.0.0.1][35dbdc7e][ExtensionHostConnection] New connection established.
+[2021-12-25 02:31:31.181] [remoteagent] [info] [127.0.0.1][35dbdc7e][ExtensionHostConnection] <62041> Launched Extension Host Process.
+[2021-12-25 02:31:54.504] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/gainullint/.git)
+[2021-12-25 02:31:54.504] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-25 02:31:57.311] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/gainullint/.git)
+[2021-12-25 02:31:57.313] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[2021-12-25 02:32:15.672] [remoteagent] [info] [127.0.0.1][d1542c99][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-25 02:32:15.749] [remoteagent] [info] [127.0.0.1][35dbdc7e][ExtensionHostConnection] <62041> Extension Host Process exited with code: 0, signal: null.
+[2021-12-25 02:32:15.749] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-25 02:32:15.749] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-25 02:32:19.259] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-25 02:32:19.259] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-25 02:32:19.408] [remoteagent] [info] [127.0.0.1][ddad4b15][ManagementConnection] New connection established.
+[2021-12-25 02:32:19.409] [remoteagent] [info] [127.0.0.1][64cbc28d][ExtensionHostConnection] New connection established.
+[2021-12-25 02:32:19.420] [remoteagent] [info] [127.0.0.1][64cbc28d][ExtensionHostConnection] <62244> Launched Extension Host Process.
+[2021-12-25 02:32:20.587] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:32:20.587] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:32:21.020] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:32:21.021] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:32:21.328] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:32:21.330] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:32:22.756] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:32:22.757] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:32:23.823] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:32:23.823] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 02:32:24.234] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/gainullint)
+[2021-12-25 02:32:24.235] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
